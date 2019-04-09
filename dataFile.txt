@@ -1,4 +1,3 @@
-FILE_ADD=1.bmp
-FILE_ADD=2.bmp
-
+FILE_DELETE=1.bmp
+FILE_DELETE=2.bmp
 
