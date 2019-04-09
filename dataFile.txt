@@ -1,3 +1,1 @@
-FILE_DELETE=TCP_IN~2.BMP
-FILE_ADD=try.bmp
 
