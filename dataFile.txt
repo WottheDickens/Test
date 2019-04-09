@@ -1,2 +1,4 @@
 FILE_ADD=1.bmp
+FILE_ADD=2.bmp
+
 
