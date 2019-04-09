@@ -1,2 +1,3 @@
-FILE_ADD=test.bmp
-FILE_ADD=test2.bmp
+FILE_DELETE=TCP_IN~2.BMP
+FILE_ADD=try.bmp
+
