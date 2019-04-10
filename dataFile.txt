@@ -1,3 +1,2 @@
-FILE_ADD=bubbs.bmp
-FILE_ADD=try.bmp
+FILE_ADD=1.bmp
 
