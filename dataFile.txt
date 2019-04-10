@@ -1,3 +1,4 @@
 FILE_DELETE=try.bmp
+FILE_ADD=bubbs.bmp
 FILE_ADD=try.bmp
 
