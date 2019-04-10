@@ -1,2 +1,2 @@
-FILE_ADD=TRY.BMP
+FILE_ADD=try.bmp
 
