@@ -1,3 +1,4 @@
+TOT=4
 FILE=pc1.bmp
 FILE=pc2.bmp
 FILE=pc3.bmp
