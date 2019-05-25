@@ -1,1 +1,5 @@
-SHOW_FILE=pc4.bmp
+FILE=pc1.bmp
+FILE=pc2.bmp
+FILE=pc3.bmp
+FILE=pc4.bmp
+
