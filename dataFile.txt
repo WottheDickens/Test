@@ -1,4 +1,4 @@
-TOT=2
+TOT=3
 FILE=pc2.bmp
 FILE=pc4.bmp
-
+FILE=seagull1.bmp
