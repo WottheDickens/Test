@@ -1,1 +1,1 @@
-SHOW_FILE=pc2.bmp
+SHOW_FILE=pc3.bmp
