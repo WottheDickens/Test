@@ -1,4 +1,4 @@
 TOT=3
-FILE=ball1.bmp
+FILE=75/bens/ball1.bmp
 FILE=pc2.bmp
 FILE=pc4.bmp
